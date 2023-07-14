@@ -1,2 +1,2 @@
-# Srcipts
+# Scripts
 My Scripts

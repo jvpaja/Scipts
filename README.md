@@ -1,2 +1,2 @@
-# Scipts
+# Srcipts
 My Scripts
